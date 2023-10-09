@@ -1,0 +1,4 @@
+[submodule "submodules/era-test-node"]
+	path = submodules/era-test-node
+	url = https://github.com/lambdaclass/era-test-node.git
+	branch = yul-console-log-vm-fixes
