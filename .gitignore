@@ -10,6 +10,8 @@ lerna-debug.log*
 # hardhat artifacts
 artifacts
 cache
+deploy
+rust
 
 # zksync artifacts
 artifacts-zk
