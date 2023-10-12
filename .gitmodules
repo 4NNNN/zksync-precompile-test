@@ -1,0 +1,3 @@
+[submodule "era-test-node"]
+	path = era-test-node
+	url = https://github.com/lambdaclass/era-test-node.git
